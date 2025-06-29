@@ -1,4 +1,4 @@
-take it till you make it
+shake it till you make it
 # contents
 
 - titles.md: The movie titles in the WebFlyx collection
