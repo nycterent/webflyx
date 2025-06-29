@@ -1,4 +1,4 @@
-fake it till you make it
+take it till you make it
 # contents
 
 - titles.md: The movie titles in the WebFlyx collection
